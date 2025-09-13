@@ -1,3 +1,7 @@
-pandas numpy matplotlib
+pandas
+numpy
+matplotlib
 yfinance
-backtrader hurst daidistance
+backtrader
+hurst
+daidistance
